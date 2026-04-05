@@ -1,0 +1,82 @@
+ #referencias {
+     font-size: 20px;
+     color: #C08552;
+     font-family: "Archivo Black", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+    }
+    #titulo-banner {
+     position: relative;
+     top: 170px;  
+     left: 0px;
+     font-size: 70px;
+     font-family: "Limelight", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+     color: #4B2E2B;
+    }
+
+    img {
+        margin-left: 50px; 
+        margin-top: -30px;
+        margin-right: 250px; 
+    }
+
+
+        body {
+            background-color:rgb(255, 248, 240);}
+        h1{
+            text-align: center;
+            color: #4B2E2B;}
+        .fonte {
+  font-size: 20px;
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  .titulo {
+  font-size: 30px;
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p { 
+   font-size: 20px;
+    text-align: center;
+    color: #C08552;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h3 {
+    color: #8C5A3C;
+}
+
+.tabelas {
+font-size: 20px;
+color: #C08552;
+font-family: "Archivo Black", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+.tabelas_titulo {
+font-size: 30px;
+color: #8C5A3C;
+font-family: "Limelight", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+     h2{
+            color: #8C5A3C;
+            text-align: center;}
+        blockquote{
+            color: #C08552;}
+        #banner{
+            
+            background-image: url(mudancas-climaticas.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            height: 500px;
+            background-image: linear-gradient(rgba(255, 248, 240, 0.3), rgba(255, 248, 240, 0.8)), url('mudancas-climaticas.png');
+        }
